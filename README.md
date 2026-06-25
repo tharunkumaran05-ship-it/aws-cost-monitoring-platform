@@ -248,4 +248,4 @@ This solution itself is extremely low-cost:
 ## Author
 
 **Tharun Kumaran**  
-Region: `ap-southeast-2`
+
