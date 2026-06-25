@@ -56,8 +56,16 @@ EventBridge Scheduler (Daily)
 ## Project Structure
 
 ```
-aws-cost-optimizer/
-├── lambda_function.py     # Main Lambda handler
+aws-cost-monitoring-platform/
+
+├── lambda/
+
+│   └── lambda_function.py     # Main Lambda handler (boto3, EC2, SNS, Cost Explorer)
+
+├── screenshots/               # Project screenshots for documentation
+
+├── requirements.txt           # Python dependencies (boto3)
+
 └── README.md
 ```
 
